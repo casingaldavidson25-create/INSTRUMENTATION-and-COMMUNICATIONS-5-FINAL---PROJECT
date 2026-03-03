@@ -38,4 +38,4 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 
 <br><br>
 <h1 align="center"> <b>REMOTE CONTROLLED CAR</b> </h1>
-<h2>🛠️ BLOCK DIAGRAM</h2>
+<h2> 📉BLOCK DIAGRAM</h2>

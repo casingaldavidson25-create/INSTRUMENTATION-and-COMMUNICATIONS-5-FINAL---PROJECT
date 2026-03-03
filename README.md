@@ -47,3 +47,15 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 <br><br>
 <h1 align="center"> <b>REMOTE CONTROLLER</b> </h1>
 <h2>🛠️ COMPONENTS USED</h2>
+<ul style="display: inline-block; text-align: left;">
+  <li>Arduino Nano Microcontroller (1pc.)</li>
+  <li>Double BTS7960 43A H-Bridge Motor Driver Module (2pcs.)</li>
+  <li>NRF24L01 LNA+PA Transceiver Module (1pc.)</li>
+  <li>DHT11 Temperature and Humidity Sensor (1pc.)</li>
+  <li>Servo Motor (1pc.)</li>
+  <li>1krpm JGA DC Motor Set (4pcs.)</li>
+  <li>5.8G 25mW Transmitter FPV AIO Camera (1pc.)</li>
+  <li>Rocker Switch (2pcs.)</li>
+  <li>18650 Battery (6pcs.)</li>
+  <li>7.4V Li-Po Battery (1pc.)</li>
+</ul>

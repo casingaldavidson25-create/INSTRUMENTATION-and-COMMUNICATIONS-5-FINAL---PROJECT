@@ -55,3 +55,11 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
   <li>LM1117 3.3V SMD Regulator(1pc.)</li>
   <li>100microFarad Capacitor (1pc.)</li>
 </ul>
+
+<br><br>
+<h2> 📉 BLOCK DIAGRAM</h2>
+## BLOCK DIAGRAM IMAGE OF REMOTE CONTROLLER
+
+<br><br>
+<h2> 🎮 CONNECTIONS</h2>
+## CONNECTIONS IMAGE OF REMOTE CONTROLLER

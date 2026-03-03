@@ -45,5 +45,5 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 ## CONNECTIONS IMAGE OF REMOTE CONTROLLED CAR
 
 <br><br>
-<h1 align="center"> <b>REMOTE CONTROLLED CAR</b> </h1>
+<h1 align="center"> <b>REMOTE CONTROLLER</b> </h1>
 <h2>🛠️ COMPONENTS USED</h2>

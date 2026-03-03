@@ -51,7 +51,7 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
   <li>NRF24L01 LNA+PA Transceiver Module (1pc.)</li>
   <li>LCD Display (1pc.)</li>
   <li>AMS1117 3.3V SMD Regulator(1pc.)</li>
-  <li>100microFarad Capacitor (1pc.)</li>
+  <li>100μF Capacitor (1pc.)</li>
 </ul>
 
 <h2> 📉 BLOCK DIAGRAM</h2>

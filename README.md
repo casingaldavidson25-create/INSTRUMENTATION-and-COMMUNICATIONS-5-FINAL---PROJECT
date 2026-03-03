@@ -37,7 +37,8 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 </ul>
 
 <h2> 📉 BLOCK DIAGRAM</h2>
-## BLOCK DIAGRAM IMAGE OF REMOTE CONTROLLED CAR
+
+![image](https://github.com/user-attachments/assets/764677c9-90c5-4687-9002-a328163202d4)
 
 <h2> 🎮 CONNECTIONS</h2>
 ## CONNECTIONS IMAGE OF REMOTE CONTROLLED CAR

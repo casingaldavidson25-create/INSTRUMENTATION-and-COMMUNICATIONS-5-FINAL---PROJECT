@@ -35,3 +35,7 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
   <li>18650 Battery (6pcs.)</li>
   <li>7.4V Li-Po Battery (1pc.)</li>
 </ul>
+
+<br><br>
+<h1 align="center"> <b>REMOTE CONTROLLED CAR</b> </h1>
+<h2>🛠️ BLOCK DIAGRAM</h2>

@@ -42,5 +42,6 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 
 ## BLOCK DIAGRAM IMAGE OF REMOTE CONTROLLED CAR
 
-<h1 align="center"> <b>REMOTE CONTROLLED CAR</b> </h1>
 <h2> 🎮 CONNECTIONS</h2>
+
+## CONNECTIONS IMAGE OF REMOTE CONTROLLED CAR

@@ -6,7 +6,7 @@
   <p><i>Intelligent RC Operated Navigator</i></p>
 </div>
 
-![7f0396ed-af64-410d-8523-3ebaf4ab1928](https://github.com/user-attachments/assets/7bda65f7-c839-40e0-8d56-af6885c2c326)
+![Image](https://github.com/user-attachments/assets/84ae5030-cea5-4a7f-b0d7-1563c725707d)
 
 <br><br>
 
@@ -41,7 +41,8 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 ![image](https://github.com/user-attachments/assets/764677c9-90c5-4687-9002-a328163202d4)
 
 <h2> 🎮 CONNECTIONS</h2>
-## CONNECTIONS IMAGE OF REMOTE CONTROLLED CAR
+
+<img width="1081" height="760" alt="Image" src="https://github.com/user-attachments/assets/04e88a25-f087-413d-bbbb-02dccaa2d35d" />
 
 <br><br>
 <h1 align="center"> <b>REMOTE CONTROLLER</b> </h1>
@@ -56,7 +57,8 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 </ul>
 
 <h2> 📉 BLOCK DIAGRAM</h2>
-## BLOCK DIAGRAM IMAGE OF REMOTE CONTROLLER
+
+<img width="818" height="608" alt="Image" src="https://github.com/user-attachments/assets/74eb3f70-8bcf-48a4-a9d9-e600c80fcf90" />
 
 <h2> 🎮 CONNECTIONS</h2>
-## CONNECTIONS IMAGE OF REMOTE CONTROLLER
+<img width="978" height="552" alt="Image" src="https://github.com/user-attachments/assets/611ac307-f7fe-44f7-a680-1c9c295a0aaf" />

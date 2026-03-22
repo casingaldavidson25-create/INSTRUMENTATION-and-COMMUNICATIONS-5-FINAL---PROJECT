@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖 --- INSTRUMENTATION AND COMMUNICATIONS 5 --- 🤖 </h1>
+<h1 align="center"> 🤖 -- INSTRUMENTATION AND COMMUNICATIONS 5 -- 🤖 </h1>
 <h1 align="center"> 📡 FINAL PROJECT 📡 </h1>
 
 <div align="center">

@@ -62,3 +62,9 @@ The project is divided into <b>two parts</b>. The <b>REMOTE CONTROLLED CAR</b> a
 
 <h2> 🎮 CONNECTIONS</h2>
 <img width="978" height="552" alt="Image" src="https://github.com/user-attachments/assets/611ac307-f7fe-44f7-a680-1c9c295a0aaf" />
+
+<br><br>
+
+<h1 align="center"> <b>PROJECT TESTING</b> </h1>
+
+https://github.com/user-attachments/assets/7eb88486-498f-420e-bce5-a6d1aba12dfd
